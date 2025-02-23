@@ -9,7 +9,6 @@
   border-radius: 1em;
   text-align: center;
   padding: 1em;
-  box-shadow: 0 0 10px rgba(26, 9, 9, 0.4);
   height: 100%;
 }
 
@@ -21,5 +20,4 @@
   border-radius: 50%;
   width: 60%;
   margin: auto;
-  margin-bottom: 1em;
 }
